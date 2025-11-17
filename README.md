@@ -1,7 +1,3 @@
-# Qwen Hebrew Fine-tuning
-
-This repository contains scripts and tools for fine-tuning the Qwen3-30B-A3B-Base model on Hebrew language data.
-
 ## Quick Start
 
 ```bash
